@@ -109,3 +109,12 @@ Customize colors for each series :
 4. Adjust display parameters according to your preferences
 5. The indicator will automatically load historical data from the local database
 6. New data will be fetched via API according to the configured interval
+
+
+<img width="2554" height="1260" alt="image" src="https://github.com/user-attachments/assets/ee20fe39-ccb9-4d2b-b8a8-e72beee11848" />
+
+<img width="1125" height="871" alt="image" src="https://github.com/user-attachments/assets/40482c4d-ffac-4c01-a1f5-6340682aca70" />
+
+<img width="2527" height="1268" alt="image" src="https://github.com/user-attachments/assets/51b23d17-8f9f-49f9-8de5-c235f8a31ebb" />
+
+
